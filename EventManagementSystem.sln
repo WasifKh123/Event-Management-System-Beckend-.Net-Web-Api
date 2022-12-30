@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventManagement", "EventManagement\EventManagement.csproj", "{BF311EEB-2154-43F3-B53F-AED15E3F4DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{E398C75B-AAA7-4D7A-835B-D0078010AAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF311EEB-2154-43F3-B53F-AED15E3F4DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF311EEB-2154-43F3-B53F-AED15E3F4DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF311EEB-2154-43F3-B53F-AED15E3F4DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF311EEB-2154-43F3-B53F-AED15E3F4DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E398C75B-AAA7-4D7A-835B-D0078010AAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E398C75B-AAA7-4D7A-835B-D0078010AAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E398C75B-AAA7-4D7A-835B-D0078010AAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E398C75B-AAA7-4D7A-835B-D0078010AAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C4B014-EB09-425D-AD42-032B3D682A6E}
+	EndGlobalSection
+EndGlobal
